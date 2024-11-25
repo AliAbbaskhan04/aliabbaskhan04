@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I am Ali Abbas
 
 <!--
-**AliAbbaskhan04/aliabbaskhan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Results-driven Data Analyst with expertise in SQL,
+Python, and Power BI. Exceptional ability in data
+cleaning, analysis, and creating insightful visualizations.
+Skilled in Generative AI and quick adoption of new tech
+stacks. Proven in delivering actionable insights for
+cross-functional teams.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m Data Analyst with a keen eye for details
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about SQL | Python | Power BI | Excel | Pandas | Numpy | Matplotlib | Seaborn
+- 📫 How to reach me: aliabbas1@zhcet.ac.in | https://www.linkedin.com/in/ali-abbas-6ab508250/
 -->
