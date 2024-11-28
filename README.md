@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m Data Analyst with a keen eye for details
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about SQL | Python | Power BI | Excel | Pandas | Numpy | Matplotlib | Seaborn
-- 📫 How to reach me: aliabbas1@zhcet.ac.in | https://www.linkedin.com/in/ali-abbas-6ab508250/
+- 📫 How to reach me: aliabbas1@zhcet.ac.in | https://www.linkedin.com/in/ali-abbas-6ab508250/ | 9400819853
 
 
 <h3 align="left">Languages and Tools:</h3>
